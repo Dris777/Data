@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "zalupas",
+  "info": {
+    "singularName": "zalupa",
+    "pluralName": "zalupas",
+    "displayName": "zalupa"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "apartment1": {
+      "type": "json"
+    }
+  }
+}
